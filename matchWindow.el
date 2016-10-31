@@ -13,15 +13,14 @@
 (get-buf-name-from-alive-window)
 buffer-name-of-alive-w3m-window
 
-(defun if-not-match-message-ok (buf)
-  (if (not (string-match exp (buffer-name buf)))
-      (message (buffer-name buf))))
-(if-not-match-message-ok (car (buffer-list)))
-
-(with-current-buffer buffer
-  body)
 (save-excursion
-  (let ((origin-window (selected-window)))
-    (select-window (cadr (cdr (cdr (window-list)))))
-    (w3m-goto-new-session-url) (select-window origin-window)))
-;;;;
+  (let ((origin-window))
+    (setq origin-window (selected-window))
+    (get-buf-name-from-alive-window)
+    (select-window (get-buffer-window (get-buffer
+                                       buffer-name-of-alive-w3m-window)))
+    ;;(select-window w3m-window)
+    (w3m-goto-new-session-url)
+    (select-window origin-window)))
+
+
