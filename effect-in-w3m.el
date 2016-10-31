@@ -13,8 +13,8 @@
 ;;(w3m-session-match "*w3m*")
 ;;buffer-name-of-alive-w3m-window
 
-(defun effect-in-w3m ()
-  (interactive)
+(defun effect-in-w3m (bool-session-new)
+  ;;(interactive)
 
   (setq-default buffer-name-of-alive-w3m-window nil)
   (setq-default tmp-list (window-list))
@@ -39,9 +39,20 @@
                                        buffer-name-of-alive-w3m-window)))
     ;;(select-window w3m-window)
     ;;(w3m-buffer-file-name)
+    (if bool-session-new
+        (w3m-goto-new-session-url)
+      )
     (w3m-goto-url (concat "http://192.168.0.6/href-direr/direr/entrysin.direr.php?p=" editting-buffer-file-name)))
   (select-window editting-window))
 
 ;;(commandp 'effect-in-w3m)
 ;;(effect-in-w3m)
-(global-set-key (kbd "C-M-3") 'effect-in-w3m)
+(defun effect-in-w3m-this-session ()
+  (interactive)
+  (effect-in-w3m nil))
+(global-set-key (kbd "C-M-3") 'effect-in-w3m-this-session)
+
+(defun effect-in-w3m-new-session ()
+  (interactive)
+  (effect-in-w3m "new"))
+(global-set-key (kbd "C-M-4") 'effect-in-w3m-new-session)
