@@ -1,0 +1,11 @@
+(defun w3m-session-match (buf-name)
+  (setq index-loop 0)
+(setq limit-loop 38)
+;; (loop for loop-index from 0 to limit-loop do
+(while (< index-loop limit-loop)
+  (if (string= buf-name
+               (concat "*w3m*<" (int-to-string index-loop) ">"))
+      (setq index-loop limit-loop)
+    (setq index-loop (+ index-loop 1)))))
+(w3m-session-match "*w3m*<12>")
+;;;;

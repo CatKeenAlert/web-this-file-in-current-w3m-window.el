@@ -1,0 +1,14 @@
+(defun w3m-session-match (buf-name)
+  (setq buffer-name-of-alive-w3m-window nil)
+  (if (string= buf-name "*w3m*")
+      (setq buffer-name-of-alive-w3m-window "*w3m*"))
+  (setq limit-loop 38)
+  (if (not buffer-name-of-alive-w3m-window)
+      (loop for index-loop from 1 to limit-loop do
+            (if (string= buf-name
+                         (concat "*w3m*<" (int-to-string index-loop) ">"))
+                (setq buffer-name-of-alive-w3m-window buf-name))
+            (if buffer-name-of-alive-w3m-window
+                (setq index-loop (+ 1 limit-loop))))))
+(w3m-session-match "*w3m*")
+;;buffer-name-of-alive-w3m-window

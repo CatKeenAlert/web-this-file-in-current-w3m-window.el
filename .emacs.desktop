@@ -1,0 +1,126 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Oct 31 18:19:30 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.3
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22551 6834 247994 39000) (desktop . "206") "catkeenalert@bogon" nil nil ((((font-backend xft x) (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter . "monospace-10") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#657b83") (background-color . "#fdf6e3") (mouse-color . "black") (border-color . "#eee8d5") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen . maximized) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . light) (cursor-color . "#586e75") (sticky) (environment) (frameset--id . "240A-C39A-56A7-DC5F") (frameset--mini t . t) (height . 42) (width . 168) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 28) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 12) (min-width . 20) (min-height-ignore . 11) (min-width-ignore . 8) (min-height-safe . 3) (min-width-safe . 4) (min-pixel-height . 180) (min-pixel-width . 160) (min-pixel-height-ignore . 165) (min-pixel-width-ignore . 64) (min-pixel-height-safe . 45) (min-pixel-width-safe . 32)) vc (pixel-width . 1366) (pixel-height . 626) (total-width . 171) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (hc (pixel-width . 1366) (pixel-height . 491) (total-width . 171) (total-height . 33) (normal-height . 0.6973094170403588) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 784) (pixel-height . 491) (total-width . 98) (total-height . 33) (normal-height . 1.0) (normal-width . 0.5557251908396947) (buffer "matchWindow.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 2335) (start . 1236))) (leaf (last . t) (pixel-width . 582) (pixel-height . 491) (total-width . 73) (total-height . 33) (normal-height . 1.0) (normal-width . 0.4442748091603053) (buffer "*w3m*<5>" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 71) (start . 1)))) (leaf (pixel-width . 1366) (pixel-height . 60) (total-width . 171) (total-height . 4) (normal-height . 0.09819967266775777) (normal-width . 1.0) (buffer "*w3m*<5>" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (hc (last . t) (pixel-width . 1366) (pixel-height . 75) (total-width . 171) (total-height . 5) (normal-height . 0.2044909102918835) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 688) (pixel-height . 75) (total-width . 86) (total-height . 5) (normal-height . 1.0) (normal-width . 0.5007363770250368) (buffer "todo_1026.org" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 7958) (start . 7944))) (leaf (last . t) (pixel-width . 678) (pixel-height . 75) (total-width . 85) (total-height . 5) (normal-height . 1.0) (normal-width . 0.4992636229749632) (buffer "phpinfo3.php" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 16) (start . 1))))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("w3m" "w3m-buffer-file-name" "w3m-this-web-file-in-last-window" "w3m-goto-new-session-url" "w3m" "browse-kill-ring" "w3m" "undo-tree-visualize" "narrow-to-region" "debug-on-entry" "edebug-defun" "eval-defun" "narrow-to-region" "widen" "narrow-to-region" "doc-view-goto-page" "edebug-defun" "eval-defun" "edebug-defun" "eval-defun" "emacs-lisp-mode" "w3m-goto-new-session-url" "evil-mode" "org-mode" "evil-mode" "w3m" "geben" "package-install" "eshell" "shell"))
+(setq face-name-history nil)
+(setq file-name-history '("~/.emacs.d/org-clock-save.el" "/home/catkeenalert/.w3m/download.share.com/hello/phpinfo3.php" "/home/catkeenalert/.w3m/download.share.com/hello/phpinfo.php" "/home/catkeenalert/.w3m/download.share.com/hello/hello.txt" "/home/catkeenalert/.emacs.d/init.el" "/home/catkeenalert/projects/share.com/download.share.com/Elisps/web-this-file-in-current-w3m-window/matchWindow.el" "/home/catkeenalert/projects/share.com/download.share.com/Elisps/web-this-file-in-current-w3m-window/matchWindow.php" "/home/catkeenalert/projects/share.com/download.share.com/Elisps/web-this-file-in-current-w3m-window/matchWindow.el" "/home/catkeenalert/projects/share.com/download.share.com/Manules/GNU.Emacs.Lisp‘±à‘³Ì‘Èë‘ÃÅ_‘ÖÐ‘ÎÄ‘°æPDF.pdf" "/home/catkeenalert/projects/share.com/download.share.com/hello/matchWindow.php" "/home/catkeenalert/projects/share.com/download.share.com/orgs/todoes/todo_1026.org" "/etc/aliases.db" "~/Documents/shop.conf" "/etc/httpd/conf/httpd.conf" "~/Documents/txt.emacs-zh-manual" "~/Documents/Schedule.today" "~/projects/0811.com/www.0811.com/book/Home/Common/index.html" "~/projects/board.com/MondayWang.thinkphp_advice.board.com/index.php" "~/projects/board.com/2997215859.think_message.board.com/ThinkPHP/Lib/Core/Action.class.php" "~/projects/board.com/2997215859.think_message.board.com/Home/Lib/Model/MessageModel.class.php" "~/projects/board.com/2997215859.think_message.board.com/Home/Tpl/Index/right.html" "/etc/httpd/conf/httpd.conf-origin-backup" "~/Downloads/PhpStorm-162.1889.1/Install-Linux-tar.txt" "~/.gnome/apps/chrome-camabckkanplmcbfmpibjbigneladpeo-Default.desktop" "~/.gnome/apps/jetbrains-phpstorm.desktop" "/usr/share/applications/evince-previewer.desktop" "/usr/share/applications/org.gnome.Shell.PortalHelper.desktop" "/usr/share/applications/file-roller.desktop" "/usr/share/applications/empathy.desktop" "/usr/share/applications/org.gnome.gedit.desktop" "/usr/share/applications/vinagre.desktop" "/usr/share/applications/nautilus-autorun-software.desktop" "/usr/share/applications/google-chrome.desktop" "/usr/share/applications/firefox.desktop" "/usr/share/applications/sublime.desktop" "/etc/selinux/config" "/var/www/member.com/www.member.com/Application/Home/Model/DefinemodelModel.class.php.md" "/var/www/member.com/www.member.com/.htaccess" "/etc/httpd/sites-available/download.share.com.conf" "/test-emacs-power.txt" "/home/catkeenalert/Documents/shop.conf" "/home/catkeenalert/Documents/txt.emacs-zh-manual" "/home/catkeenalert/Documents/Schedule.today" "/home/catkeenalert/projects/0811.com/www.0811.com/book/Home/Common/index.html" "/home/catkeenalert/projects/board.com/MondayWang.thinkphp_advice.board.com/index.php" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/ThinkPHP/Lib/Core/Action.class.php" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Lib/Model/MessageModel.class.php" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Tpl/Index/right.html" "/home/catkeenalert/Downloads/PhpStorm-162.1889.1/Install-Linux-tar.txt" "/home/catkeenalert/.gnome/apps/chrome-camabckkanplmcbfmpibjbigneladpeo-Default.desktop" "/home/catkeenalert/.gnome/apps/jetbrains-phpstorm.desktop"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ido-buffer-history '("matchWindow.el" "phpinfo3.php" "matchWindow.el" nil "hello.txt" "todo_1026.org" "matchWindow.el" "matchWindow.php —£À hello" "matchWindow.el" "*w3m*<3>" "*w3m*<4>" "*w3m*<2>" "*w3m*" "matchWindow.php" "*Backtrace*" "*Help*" "*w3m*" "www.member.com" "info" "*terminal<2>*" "*terminal<3>*" "smex-autoloads.el" "branches" "UserModel.class.php" "test.php" "README" "2997215859.think_message.board.com" "download.share.com" "config.php" "ThinkPHP3.1.Manule.apk" "ido-ubiquitous-autoloads.el" "RegisterAction.class.php" "LoginAction.class.php" "*Messages*" "left.html" "autoindex.conf" "UserModel.class.php" "Home —£À book" "*shell*" "Db.class.php" "config.php" "index.php" "index.html" "host.conf" "hosts" "vhost.conf" "shop" "0811" "Common —£À shop" "Runtime" "View" "*scratch*" "Conf" "Model" "0811.conf" "Home" "httpd.conf" "shop —£À projects" "Controller" "catkeenalert" "logo.png" "LICENSE.txt" "index.php —£À shop" "ido-completing-read+-autoloads.el" "HELLO" "txt.vim-key-sheet" "*Messages*" "*scratch*" "register.html" "detail.html" "IndexController.class.php" "GoodsController.class.php" "showlist.html" "login.html" "UserController.class.php" "login.html —£À View" " *NeoTree*" "2016-08-13 12-44-43 ‘µÄ‘ÆÁ‘Ä»‘½Ø‘Í¼.png" "IndexController.class.php" "group" "0811-error.log" "*shell*" "hosts" "httpd.conf-origin-backup" "vhost.conf" "httpd.conf" "emacs-zh-manual.pdf" "test-whose.txt" "txt.emacs-zh-manual"))
+(setq ido-last-directory-list '(("/home/catkeenalert/.w3m/download.share.com/" . "hello/") ("/home/catkeenalert/.w3m/" . "download.share.com/") ("/home/catkeenalert/projects/share.com/download.share.com/Elisps/" . "web-this-file-in-current-w3m-window/") ("/home/catkeenalert/projects/share.com/" . "download.share.com/") ("/home/catkeenalert/projects/share.com/download.share.com/orgs/" . "todoes/") ("/home/catkeenalert/projects/share.com/download.share.com/" . "Elisps/") ("/var/www/member.com/www.member.com/Application/Home/" . "Model/") ("/var/www/member.com/www.member.com/Application/" . "Home/") ("/var/www/member.com/www.member.com/" . "Application/") ("/usr/share/" . "applications/") ("/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Lib/" . "Action/") ("/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Tpl/" . "Index/") ("/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/" . "Tpl/") ("/var/www/share.com/" . "download.share.com/") ("/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/ThinkPHP/Lib/" . "Core/") ("/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/ThinkPHP/" . "Lib/") ("/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/" . "Home/") ("/home/catkeenalert/projects/0811.com/www.0811.com/book/" . "Home/") ("/home/catkeenalert/projects/0811.com/www.0811.com/" . "book/") ("/home/catkeenalert/projects/0811.com/" . "www.0811.com/") ("/home/catkeenalert/projects/board.com/MondayWang.thinkphp_advice.board.com/" . "home/") ("/" . "proc/") ("/home/catkeenalert/projects/board.com/message.board.com/Home/" . "Conf/") ("/home/catkeenalert/projects/board.com/message.board.com/ThinkPHP/Lib/" . "Core/") ("/home/catkeenalert/projects/board.com/message.board.com/ThinkPHP/" . "Lib/") ("/home/catkeenalert/projects/board.com/message.board.com/" . "Home/") ("/home/catkeenalert/projects/board.com/" . "2997215859.think_message.board.com/") ("/home/catkeenalert/projects/0811/shop/Home/View/" . "Index/") ("/var/www/web/0811/shop/Home/View/" . "Goods/") ("/home/catkeenalert/projects/0811/shop/Home/" . "View/") ("/home/catkeenalert/projects/0811/shop/" . "Home/") ("/home/catkeenalert/projects/0811/" . "shop/") ("/home/catkeenalert/projects/" . "share.com/") ("/var/www/web/0811/book/" . "ThinkPHP/") ("/var/www/web/0811/" . "book/") ("/var/www/web/" . "0811/") ("/etc/" . "httpd/") ("/var/www/example.com/" . "public_html/") ("/var/" . "log/") ("/var/log/" . "httpd/") ("/var/www/" . "share.com/") ("/etc/httpd/" . "sites-available/") ("/home/" . "catkeenalert/") ("/home/catkeenalert/" . ".emacs.d/")))
+(setq ido-work-directory-list '("/home/catkeenalert/.w3m/download.share.com/hello/" "/home/catkeenalert/.emacs.d/" "/home/catkeenalert/projects/share.com/download.share.com/Elisps/web-this-file-in-current-w3m-window/" "/home/catkeenalert/projects/share.com/download.share.com/Manules/" "/home/catkeenalert/projects/share.com/download.share.com/hello/" "/home/catkeenalert/projects/share.com/download.share.com/orgs/todoes/" "/" "/etc/httpd/sites-available/" "/sudo:root@localhost:" "/usr/share/applications/" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Tpl/Index/" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Lib/Action/" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Conf/" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/Lib/Model/" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/Home/" "/home/catkeenalert/projects/board.com/2997215859.think_message.board.com/ThinkPHP/Lib/Core/" "/home/catkeenalert/projects/board.com/MondayWang.thinkphp_advice.board.com/" "/home/catkeenalert/projects/board.com/message.board.com/Home/Conf/" "/home/catkeenalert/projects/board.com/message.board.com/ThinkPHP/Lib/Core/" "/var/www/example.com/public_html/" "/etc/httpd/conf/" "/home/catkeenalert/projects/0811/shop/Home/Controller/" "/home/catkeenalert/projects/0811/shop/Home/View/User/" "/home/catkeenalert/projects/0811/shop/Home/View/Goods/" "/etc/" "/home/catkeenalert/projects/0811/shop/" "/var/www/web/" "/etc/httpd/conf.d/" "/home/catkeenalert/Documents/" "/etc/selinux/" "/var/www/html/" "/home/catkeenalert/Downloads/"))
+(setq ido-work-file-list '("phpinfo3.php" "phpinfo.php" "hello.txt" "init.el" "matchWindow.el" "matchWindow.php" "GNU.Emacs.Lisp‘±à‘³Ì‘Èë‘ÃÅ_‘ÖÐ‘ÎÄ‘°æPDF.pdf" "todo_1026.org" "test-emacs-power.txt" "download.share.com.conf"))
+(setq minibuffer-history '("global-set-key args out of range " "get-buf-name-from-alive-window" "cdr" "nthcdr" "wrong argument type listp 1" "wrong-type listp 1" "181" "loop" "nthcdr" "geben" "magit-mode" "magit-diff-popup" "magit-reverse-apply" "emmet-mode" "Elisp" "neotree" "evil-escape" "evil-visual-mark-mode" "php-mode"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history '("w"))
+(setq regexp-history nil)
+(setq regexp-search-ring '("record" "^" "name-of" "index" "table>" "chrome" "Cate" "nautilus" "file" "En" "Tiger" "help" "jet" "a" "orm" "48x"))
+(setq register-alist '((48 . "w3m-this-web-file-in-last-window")))
+(setq search-ring '("glo" "let" "url" "list" "lisp" "do" "i" "index"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/catkeenalert/projects/share.com/download.share.com/Elisps/web-this-file-in-current-w3m-window/matchWindow.el"
+  "matchWindow.el"
+  'emacs-lisp-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode flycheck-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode highlight-quoted-mode aggressive-indent-mode rainbow-delimiters-mode eldoc-mode redshank-mode elisp-slime-nav-mode)
+  2335
+  '(2335 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/catkeenalert/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode flycheck-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode highlight-quoted-mode aggressive-indent-mode rainbow-delimiters-mode eldoc-mode redshank-mode elisp-slime-nav-mode)
+  10939
+  '(10939 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/catkeenalert/.w3m/download.share.com/hello/phpinfo3.php"
+  "phpinfo3.php"
+  'php-mode
+  '(abbrev-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode indent-guide-mode)
+  16
+  '(17 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/catkeenalert/projects/share.com/download.share.com/orgs/todoes/todo_1026.org"
+  "todo_1026.org"
+  'org-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode flycheck-mode)
+  7958
+  '(8003 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/catkeenalert/.w3m/download.share.com/hello/phpinfo.php"
+  "phpinfo.php"
+  'php-mode
+  '(abbrev-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode indent-guide-mode)
+  19
+  '(19 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/catkeenalert/.w3m/download.share.com/hello/hello.txt"
+  "hello.txt"
+  'text-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode flycheck-mode)
+  1
+  '(860 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/catkeenalert/projects/share.com/download.share.com/Elisps/web-this-file-in-current-w3m-window/matchWindow.php"
+  "matchWindow.php"
+  'php-mode
+  '(abbrev-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode indent-guide-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/catkeenalert/projects/share.com/download.share.com/Manules/GNU.Emacs.Lisp‘±à‘³Ì‘Èë‘ÃÅ_‘ÖÐ‘ÎÄ‘°æPDF.pdf"
+  "GNU.Emacs.Lisp‘±à‘³Ì‘Èë‘ÃÅ_‘ÖÐ‘ÎÄ‘°æPDF.pdf"
+  'doc-view-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode)
+  1
+  '(1 nil)
+  t
+  '((page . 1) (slice))
+  '((buffer-file-coding-system . no-conversion)))
+
